@@ -1,0 +1,17 @@
+{
+  "name": "@smugmug-auth/services",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.208.0",
+    "@aws-sdk/util-dynamodb": "^3.208.0",
+    "@serverless-stack/node": "^1.17.1",
+    "aws-sdk": "^2.1253.0",
+    "oauth": "^0.10.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.108",
+    "@types/oauth": "^0.9.1"
+  }
+}
